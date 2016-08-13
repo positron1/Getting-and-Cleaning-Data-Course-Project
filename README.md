@@ -8,3 +8,5 @@
 ###6.Combine subjects and activities with the data.
 ###7.Reshape and get the averge values of the data using melt and dcast from 'reshape2' package.
 ###8.Write the processed data into a new file called 'tidyData.txt'.
+
+###When using the script, first load the file, and then run 'main()' function to do the analysis, and show the tidy data by 'read_data()' function. 
